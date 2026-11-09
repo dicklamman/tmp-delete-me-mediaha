@@ -1,8 +1,8 @@
 {
   "name": "Private Test Addon",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "slug": "private_test",
-  "description": "test 3.0.2",
+  "description": "test 3.0.3",
   "arch": [
     "amd64",
     "aarch64",
