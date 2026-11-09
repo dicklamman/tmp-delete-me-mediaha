@@ -1,1 +1,17 @@
-﻿{"name":"Private Test Addon","version":"1.0.0","slug":"private_test","description":"test","arch":["amd64","aarch64","armv7"],"startup":"application","boot":"auto","options":{},"schema":{},"ports":{},"map":[]}
+{
+  "name": "Private Test Addon",
+  "version": "1.0.0",
+  "slug": "private_test",
+  "description": "test",
+  "arch": [
+    "amd64",
+    "aarch64",
+    "armv7"
+  ],
+  "startup": "application",
+  "boot": "auto",
+  "options": {},
+  "schema": {},
+  "ports": {},
+  "map": []
+}
